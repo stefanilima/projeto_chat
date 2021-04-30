@@ -6,7 +6,7 @@ Este projeto foi desenvolvido através Next Level Week 5 - da [RocketSeat](https
 
 O objetivo deste projeto é uma aplicação em NodeJS utilizando Websocket para um chat online.
 
-Possibilitando uma comunicação através de um botão de Suporte. Onde o cliente informa o que deseja, insere seu e-mail e solicita o auxilio de uma admin.
+Possibilitando uma comunicação através de um botão de Suporte. Onde o cliente informa o que deseja, insere seu e-mail e solicita o auxilio ao admin.
 
 O admin pode conversar com mais de um cliente através da mesma interface.
 
